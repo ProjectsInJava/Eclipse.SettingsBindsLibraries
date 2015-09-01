@@ -1,0 +1,1 @@
+C:\Users\Pawel\Documents\GitHub\Workspace1\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.workbench.prefs
